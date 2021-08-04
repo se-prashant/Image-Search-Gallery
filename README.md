@@ -1,4 +1,4 @@
-#  <a href="https://imagegalleryunsplah.netlify.app/">Image Search Gallery </a>
+#  <a href="https://imagegalleryunsplah.netlify.app/" target = "blank">Image Search Gallery </a>
 ### This reacts app allows users to search for images using Unsplash’s image API.
 ## Tech/framework used
 Built with React,JavaScript, HTML, and CSS
